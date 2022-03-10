@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1752 79.96" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{isolation:isolate;}.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:2.74px;}.cls-3{fill:url(#b);}.cls-4{fill:url(#a);}.cls-5{mix-blend-mode:overlay;opacity:0.41;}.cls-6{fill:url(#c);}.cls-7{mix-blend-mode:hard-light;opacity:0.35;}.cls-8{fill:#f0aae1;}</style>
+<linearGradient id="b" x1="1.18" x2="1750.9" y1="39.7" y2="39.7" gradientUnits="userSpaceOnUse">
+<stop stop-color="#402480" offset="0"/>
+<stop stop-color="#412480" offset=".01"/>
+<stop stop-color="#682295" offset=".44"/>
+<stop stop-color="#8021a1" offset=".79"/>
+<stop stop-color="#8921a6" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="1.18" x2="1746.9" y1="34.93" y2="34.93" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5a1cf2" offset="0"/>
+<stop stop-color="#601def" offset=".17"/>
+<stop stop-color="#7020e8" offset=".38"/>
+<stop stop-color="#8a25db" offset=".62"/>
+<stop stop-color="#af2cc9" offset=".88"/>
+<stop stop-color="#c22fc0" offset="1"/>
+</linearGradient>
+<linearGradient id="c" x1="882.98" x2="882.98" y1="69.05" y2="-45.9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#b355c2" stop-opacity="0" offset=".24"/>
+<stop stop-color="#fff" offset=".69"/>
+</linearGradient>
+</defs>
+<g class="cls-1">
+<g>
+<path class="cls-2" d="M1.18.8,42,69.42c4.17,5.48,15.64,9.17,28.54,9.17h1602c12.9,0,24.37-3.69,28.55-9.17L1750.88.8"/>
+<path class="cls-3" d="m1672.5 78.59h-1602c-12.9 0-24.37-3.69-28.54-9.17l-40.81-68.62h1749.7l-49.81 68.62c-4.18 5.48-15.65 9.17-28.55 9.17z"/>
+<path class="cls-4" d="m1675.5 69.05h-1605c-12.9 0-24.37-4-28.54-10l-40.81-58.25h1745.7l-42.81 58.29c-4.18 5.96-15.65 9.96-28.55 9.96z"/>
+<g class="cls-5">
+<path class="cls-6" d="m1676.2 69.05h-1588.5c-12.77 0-24.12-4-28.25-10l-40.4-58.25h1727.8l-42.39 58.29c-4.13 5.96-15.49 9.96-28.26 9.96z"/>
+</g>
+<g class="cls-7">
+<rect class="cls-8" x="1097.4" y="9.05" width="46.31" height="8.6" rx="3.8"/>
+</g>
+<g class="cls-7">
+<rect class="cls-8" x="874.33" y="24.36" width="28.65" height="8.6" rx="2.99"/>
+</g>
+<g class="cls-7">
+<rect class="cls-8" x="643.48" y="45.5" width="31.64" height="7.91" rx="3.28"/>
+</g>
+<g class="cls-7">
+<rect class="cls-8" x="968.3" y="42.31" width="80.72" height="8.6" rx="4.3"/>
+</g>
+<g class="cls-7">
+<rect class="cls-8" x="119.42" y="8.8" width="24.2" height="6.46" rx="3.23"/>
+</g>
+</g>
+</g>
+</svg>
